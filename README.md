@@ -1,4 +1,2 @@
-# React-barras
-
-# Bootcamp de Desenvolvedor Full-Stack
+# Bootcamp de Desenvolvedor Full-Stack - React-barras
 ![](bootcamp_fullstack.png)
